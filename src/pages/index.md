@@ -8,7 +8,7 @@ hide_table_of_contents: true
 
 A family of composable tools for building agenting workflows.
 
-![smithy forge](/img/forge.png)
+![smithy](/img/body.png)
 
 ### [MCPSmithy](https://iorubs.github.io/mcpsmithy/)
 
